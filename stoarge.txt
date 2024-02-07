@@ -1,0 +1,12 @@
+[
+  {
+    "title": "title of post1",
+    "content": "content of post1",
+    "id": 1
+  },
+  {
+    "title": "Favourite food",
+    "content": "I just love food",
+    "id": 2
+  }
+]
