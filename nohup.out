@@ -1,0 +1,174 @@
+The disableGPU setting is set to undefined
+Not disabling GPU
+Gtk-Message: 19:16:44.023: Failed to load module "xapp-gtk3-module"
+Main: Starting cleanup of stale files
+Main: Cleanup of stale files completed
+Main~createDefaultWorkingDir - Default working dir creation already attempted
+1706804204166 main info "Booting Postman 10.22.0, linux-6.5.0-kali3-amd64 on x64"
+1706804204167 main info "EventBus~initialize - Success"
+1706804204169 main info "Proxy configuration has not been setup"
+1706804204169 main info "CloudProxyManager~init - Success"
+1706804204188 main info "performShellDataMigration: Migration has already been done. Bailing out"
+1706804204195 main info "UpdateHandler~init - Success"
+1706804204197 main info "LeaderSelection: Initialized successfully"
+1706804204198 main info "VersionDependencyService: Initialized successfully"
+1706804204206 main info "LinuxAutoUpdater~Cleanup - Initial cleanup successful"
+[31498:0201/191644.216367:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+1706804204229 main info "GPU detected VID 32902 DID 22807 ACTIVE true"
+1706804204254 main info "shellController~init: Success"
+1706804204260 main info "shellMeta~init: Success"
+1706804204260 main info "partitionMigrationService: State of V7 partition:"
+1706804204260 main info "partitionMigrationService: V7 partitions",[]
+1706804204261 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no partition with scratchpad namespace"
+1706804204261 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no transit partition which could have been used for scratchpad"
+1706804204261 main info "partitionMigrationService~init: Success"
+1706804204274 main info "partitionMigrationService~runV8PartitionsIntegrity: Two way migration~ removing the following partitions from v8",[]
+1706804204280 main info "userPartitionService~getRecentV8UserPartition: recent v8 user context partition ","93ccad61-861a-4926-8c82-d16315d4b0d4"
+1706804204280 main info "userPartitionService~_rectifyTheActivePartitionOfApplication: Setting the active partition to ","93ccad61-861a-4926-8c82-d16315d4b0d4"
+1706804204288 main info "userPartitionService~init: Success"
+1706804204302 main info "userPartitionService: State of v8 partition system:"
+1706804204305 main info "shell~init~getPartitionToLoad: loading active partition"
+1706804204307 main info "userPartitionService: List of partitions:",[{"partitionId":"93ccad61-861a-4926-8c82-d16315d4b0d4","namespace":"users","userId":"28139971","teamId":"0","lastUpdated":"2024-02-01T15:32:18.249Z"},{"partitionId":"a4e84164-27a8-416c-a52a-a4422362f3dd","namespace":"scratchPad","userId":0,"teamId":0,"isDirty":false}]
+1706804204307 main info "userPartitionService: users global meta:",{}
+1706804207264 main info "RuntimeIPCAgent~started: Success"
+1706804207508 main info "Main~getRemoteInitPath:: "
+1706804207811 main info "UpdateHandler~app-update-events - Received event",{"name":"checkForElectronVersionUpdated","namespace":"appUpdate"}
+INTERCEPTOR CONNECTIVITY: Connecting to Interceptor Bridge
+IPCClient ~ WindowHandler: New event is received { type: 'window-opened' }
+1706804207828 main info "windowManager: First requester booted successfully."
+1706804207828 main info "windowManager~restoreWindows: Restoring requester windows"
+1706804207829 main info "Main~AppEvents - Received booted event for process requester.Version 10.22.9 UI Version: 10.22.9-ui-240129-0641 Desktop Platform Version: 10.22.0"
+1706804207955 main info "Main~getRemoteInitPath:: "
+1706804208652 main info "Main~getPlatformLaunchPerfMetrics"
+1706804209131 main info "INTERCEPTOR CONNECTIVITY: Attempting to start websocket server on port 15611"
+1706804209785 main info "Main - model-events~user - (user, bootstrapUser) received"
+1706804209785 main info "model-events~user - bootstrapUser received"
+1706804209806 main info "userPartitionService~associateTransitPartition: ",{"partitionId":"93ccad61-861a-4926-8c82-d16315d4b0d4","context":{"namespace":"users","userId":"28139971","teamId":"0"}}
+1706804209831 main info "userPartitionService: State of v8 partition system:"
+1706804209835 main info "userPartitionService: List of partitions:",[{"partitionId":"93ccad61-861a-4926-8c82-d16315d4b0d4","namespace":"users","userId":"28139971","teamId":"0","lastUpdated":"2024-02-01T16:16:49.806Z"},{"partitionId":"a4e84164-27a8-416c-a52a-a4422362f3dd","namespace":"scratchPad","userId":0,"teamId":0,"isDirty":false}]
+1706804209835 main info "userPartitionService: users global meta:",{}
+1706804210753 main info "Quitting app"
+The disableGPU setting is set to undefined
+Not disabling GPU
+Gtk-Message: 19:16:55.312: Failed to load module "xapp-gtk3-module"
+Main: Starting cleanup of stale files
+Main: Cleanup of stale files completed
+Main~createDefaultWorkingDir - Default working dir creation already attempted
+1706804215486 main info "Booting Postman 10.22.0, linux-6.5.0-kali3-amd64 on x64"
+1706804215487 main info "EventBus~initialize - Success"
+1706804215489 main info "Proxy configuration has not been setup"
+1706804215489 main info "CloudProxyManager~init - Success"
+1706804215509 main info "performShellDataMigration: Migration has already been done. Bailing out"
+1706804215516 main info "UpdateHandler~init - Success"
+1706804215518 main info "LeaderSelection: Initialized successfully"
+1706804215519 main info "VersionDependencyService: Initialized successfully"
+1706804215526 main info "LinuxAutoUpdater~Cleanup - Initial cleanup successful"
+[31705:0201/191655.538910:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+1706804215558 main info "GPU detected VID 32902 DID 22807 ACTIVE true"
+1706804215578 main info "shellController~init: Success"
+1706804215588 main info "shellMeta~init: Success"
+1706804215588 main info "partitionMigrationService: State of V7 partition:"
+1706804215589 main info "partitionMigrationService: V7 partitions",[]
+1706804215589 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no partition with scratchpad namespace"
+1706804215590 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no transit partition which could have been used for scratchpad"
+1706804215590 main info "partitionMigrationService~init: Success"
+1706804215602 main info "partitionMigrationService~runV8PartitionsIntegrity: Two way migration~ removing the following partitions from v8",[]
+1706804215607 main info "userPartitionService~getRecentV8UserPartition: recent v8 user context partition ","93ccad61-861a-4926-8c82-d16315d4b0d4"
+1706804215607 main info "userPartitionService~_rectifyTheActivePartitionOfApplication: Setting the active partition to ","93ccad61-861a-4926-8c82-d16315d4b0d4"
+1706804215615 main info "userPartitionService~init: Success"
+1706804215632 main info "userPartitionService: State of v8 partition system:"
+1706804215633 main info "shell~init~getPartitionToLoad: loading active partition"
+1706804215638 main info "userPartitionService: List of partitions:",[{"partitionId":"93ccad61-861a-4926-8c82-d16315d4b0d4","namespace":"users","userId":"28139971","teamId":"0","lastUpdated":"2024-02-01T16:16:49.806Z"},{"partitionId":"a4e84164-27a8-416c-a52a-a4422362f3dd","namespace":"scratchPad","userId":0,"teamId":0,"isDirty":false}]
+1706804215638 main info "userPartitionService: users global meta:",{}
+1706804218945 main info "RuntimeIPCAgent~started: Success"
+1706804219173 main info "Main~getRemoteInitPath:: "
+1706804219477 main info "UpdateHandler~app-update-events - Received event",{"name":"checkForElectronVersionUpdated","namespace":"appUpdate"}
+INTERCEPTOR CONNECTIVITY: Connecting to Interceptor Bridge
+IPCClient ~ WindowHandler: New event is received { type: 'window-opened' }
+1706804219498 main info "windowManager: First requester booted successfully."
+1706804219498 main info "windowManager~restoreWindows: Restoring requester windows"
+1706804219498 main info "Main~AppEvents - Received booted event for process requester.Version 10.22.9 UI Version: 10.22.9-ui-240129-0641 Desktop Platform Version: 10.22.0"
+1706804219637 main info "Main~getRemoteInitPath:: "
+1706804220318 main info "Main~getPlatformLaunchPerfMetrics"
+1706804220954 main info "INTERCEPTOR CONNECTIVITY: Attempting to start websocket server on port 15611"
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+1706804221490 main info "Main - model-events~user - (user, bootstrapUser) received"
+1706804221491 main info "model-events~user - bootstrapUser received"
+1706804221507 main info "userPartitionService~associateTransitPartition: ",{"partitionId":"93ccad61-861a-4926-8c82-d16315d4b0d4","context":{"namespace":"users","userId":"28139971","teamId":"0"}}
+1706804221533 main info "userPartitionService: State of v8 partition system:"
+1706804221538 main info "userPartitionService: List of partitions:",[{"partitionId":"93ccad61-861a-4926-8c82-d16315d4b0d4","namespace":"users","userId":"28139971","teamId":"0","lastUpdated":"2024-02-01T16:17:01.507Z"},{"partitionId":"a4e84164-27a8-416c-a52a-a4422362f3dd","namespace":"scratchPad","userId":0,"teamId":0,"isDirty":false}]
+1706804221539 main info "userPartitionService: users global meta:",{}
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+[31705:0100/000000.248261:ERROR:connection.cc(66)] X connection error received.
